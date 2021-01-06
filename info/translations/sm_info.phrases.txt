@@ -1,0 +1,29 @@
+"Phrases"
+{
+	"ServerName"
+	{
+		"en" 		"Server Name"
+		"hu" 		"Szerver Név"
+		"fr"		"Nom Du Serveur"
+	}
+	"Map"
+	{
+		"en"		"Currently Map"
+		"hu" 		"Jelenlegi Pálya"
+		"fr"		"Piste Actuelle"
+	}
+	"PlayerCount"
+	{
+		"en"	  	"Player Count"
+		"hu" 		"Játékosok"
+		"fr"		"Joueurs"
+	}
+
+	"Time"
+	{
+		"en" 		"Map Time"
+		"hu"		"Pálya Idő"
+		"fr"		"Temps De Piste"
+	}
+
+}
